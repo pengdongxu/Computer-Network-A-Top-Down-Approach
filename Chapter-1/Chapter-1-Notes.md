@@ -213,9 +213,7 @@ $$
 
 在发送主机端，一个应用层报文被传送给运输层。在最简单的情况下，运输层收取到报文并附上附加信息，该首部将被接收端的运输层使用。应用层报文和运输层首部信息一道构成运输层报文段。运输层报文段因此封装了应用层报文。
 
-
-
-![](/Users/pengdx/Pengpdx/Notes/Computer-Network-A-Top-Down-Approach/Chapter-1/Image/网络封装.jpg)
+![分层结构](https://github.com/pengdongxu/Computer-Network-A-Top-Down-Approach/blob/main/Chapter-1/Image/%E7%BD%91%E7%BB%9C%E5%B0%81%E8%A3%85.jpg "分层结构")
 
 
 
